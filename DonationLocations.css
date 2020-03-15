@@ -91,31 +91,6 @@
     padding: 0px 0;
   }
 
-  .philHeader
-  { 
-    grid-area: philHeader; 
-    text-align: center;
-    font-size: 14pt;
-    font-weight: bold;
-    padding: 0px 0;
-    margin-top: 100px;
-  }
-
-  .philText
-  { 
-    grid-area: philText;
-    text-align: center;
-    font-size: 12pt;
-    padding: 0px 0;
-  }
-
-  .philMap
-  { 
-    grid-area: philMap;
-    text-align: center;
-    font-size: 12pt;
-    padding: 20px 0;
-  }
 
   .finkHeader
   { 
@@ -133,11 +108,39 @@
     text-align: center;
     font-size: 12pt;
     padding: 0px 0;
+    margin-top: -35px;
   }
 
   .finkMap
   { 
     grid-area: finkMap;
+    text-align: center;
+    font-size: 12pt;
+    padding: 20px 0;
+  }
+
+  .philHeader
+  { 
+    grid-area: philHeader; 
+    text-align: center;
+    font-size: 14pt;
+    font-weight: bold;
+    padding: 0px 0;
+    margin-top: 100px;
+  }
+
+  .philText
+  { 
+    grid-area: philText;
+    text-align: center;
+    font-size: 12pt;
+    padding: 0px 0;
+    margin-top: -35px;
+  }
+
+  .philMap
+  { 
+    grid-area: philMap;
     text-align: center;
     font-size: 12pt;
     padding: 20px 0;
@@ -159,6 +162,7 @@
     text-align: center;
     font-size: 12pt;
     padding: 0px 0;
+    margin-top: -35px;
   }
 
   .towMap
